@@ -2,7 +2,7 @@
 - 👀 I’m interested in ecology of soil animals
 - 🌱 I’m currently learning mites
 - 💞️ I’m looking to collaborate on global mites
-- 📫 How to reach me twitter: @logos_lu
+- 📫 How to reach me: twitter @logos_lu
 
 <!---
 Logos-Lu/Logos-Lu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
