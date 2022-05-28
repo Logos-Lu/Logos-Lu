@@ -1,4 +1,4 @@
-- 👀 I’m interested in ecology of soil animals
+- 👀 I’m interested animal ecology
 - 🌱 I’m currently learning more mites
 - 💞️ I’m looking to collaborate on global mites
 - 📫 How to reach me: twitter @logos_lu
