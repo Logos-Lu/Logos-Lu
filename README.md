@@ -1,6 +1,6 @@
 - 👀 I’m interested animal ecology
-- 🌱 I’m currently learning more mites
-- 💞️ I’m looking to collaborate on global mites
+- 🌱 I’m currently testing size-based trophic segregation in soil microarthropods
+- 💞️ I’m looking to collaborate on global mites (#GlobalOribatida)
 - 📫 How to reach me: twitter @logos_lu
 
 <!---
